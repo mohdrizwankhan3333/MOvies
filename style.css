@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#recommended-movies {
+    margin-top: 20px;
+}
+
+.movie {
+    margin-bottom: 10px;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+.movie:hover {
+    background-color: #f0f0f0;
+}
